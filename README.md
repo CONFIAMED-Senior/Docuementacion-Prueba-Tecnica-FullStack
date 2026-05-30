@@ -27,6 +27,40 @@ El sistema fue construido siguiendo los principios de **Clean Architecture** y *
 
 ---
 
+## Demo Visual
+
+### 🔐 Inicio de Sesión
+
+Autenticación de usuario con validación de credenciales y redirección al panel principal.
+
+![Inicio de sesión](https://res.cloudinary.com/dhkmjpq1h/image/upload/v1780096543/video_login_t7tjkb.gif)
+
+---
+
+### 📋 Asignación de Work Items
+
+El sistema asigna ítems de trabajo a los usuarios ordenados de **mayor a menor relevancia**. Si un usuario ya cuenta con 3 ítems asignados, el sistema busca automáticamente otro usuario disponible para distribuir la carga.
+
+![Asignación de work items](https://res.cloudinary.com/dpabol1z3/image/upload/v1780110671/ex3ryhumtx1lb51cn3ti.gif)
+
+---
+
+### 🗂️ Gestión de Items Pendientes
+
+Vista de administración de los ítems con estado **Pendiente (`P`)**, permitiendo su seguimiento y actualización.
+
+![Gestión de items pendientes](https://res.cloudinary.com/dpabol1z3/image/upload/v1780110679/o8cr6tzvn13uwulif4f5.gif)
+
+---
+
+### ⚠️ Usuario Saturado
+
+Cuando un usuario acumula **4 o más ítems de alta relevancia**, el sistema lo marca como saturado para evitar sobrecarga de trabajo.
+
+![Usuario saturado](https://res.cloudinary.com/dpabol1z3/image/upload/v1780110361/m8kbsvt958d0h4yeiynx.png)
+
+---
+
 ## Tecnologías Utilizadas
 
 ### Backend
