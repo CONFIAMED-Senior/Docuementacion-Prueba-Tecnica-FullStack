@@ -5,16 +5,17 @@
 ## 📌 Tabla de Contenidos
 
 1. [Descripción General](#descripción-general)
-2. [Tecnologías Utilizadas](#tecnologías-utilizadas)
-3. [Arquitectura del Sistema](#arquitectura-del-sistema)
-4. [Domain-Driven Design (DDD)](#domain-driven-design-ddd)
-5. [Estructura del Proyecto](#estructura-del-proyecto)
-6. [Capas de la Aplicación](#capas-de-la-aplicación)
-7. [Patrones de Diseño Utilizados](#patrones-de-diseño-utilizados)
-8. [API REST — Endpoints](#api-rest--endpoints)
-9. [Frontend — Angular](#frontend--angular)
-10. [Base de Datos](#base-de-datos)
-11. [Configuración y Ejecución](#configuración-y-ejecución)
+2. [Demo Visual](#demo-visual)
+3. [Tecnologías Utilizadas](#tecnologías-utilizadas)
+4. [Arquitectura del Sistema](#arquitectura-del-sistema)
+5. [Domain-Driven Design (DDD)](#domain-driven-design-ddd)
+6. [Estructura del Proyecto](#estructura-del-proyecto)
+7. [Capas de la Aplicación](#capas-de-la-aplicación)
+8. [Patrones de Diseño Utilizados](#patrones-de-diseño-utilizados)
+9. [API REST — Endpoints](#api-rest--endpoints)
+10. [Frontend — Angular](#frontend--angular)
+11. [Base de Datos](#base-de-datos)
+12. [Configuración y Ejecución](#configuración-y-ejecución)
 
 ---
 
